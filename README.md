@@ -1,4 +1,4 @@
-# SocialPedia
+# SocioPedia
 
 SocialPedia is a **full-stack social media application** where users can create accounts, post updates, interact with other users, and explore a dynamic social platform. This project is built using **MERN stack** (MongoDB, Express.js, React.js, Node.js).
 
